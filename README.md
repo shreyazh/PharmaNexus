@@ -1,5 +1,5 @@
 ## 💊 PharmaNexus - Drug Repurposing using Knowledge Graph Embeddings
-
+![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)
 Drug repurposing methods can identify already approved drugs to treat them efficiently, reducing development costs and time. At the same time, knowledge graph embedding techniques can encode biological information in a single structure that allows users to operate relationships, extract information, learn connections, and make predictions to discover potential new relationships between existing drugs and vector-borne diseases.
 
 **Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dr-using-kge.streamlit.app/) and let me know your comments**.
