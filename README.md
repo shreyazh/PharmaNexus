@@ -2,11 +2,9 @@
 ![Repo Size](https://img.shields.io/github/repo-size/Sulstice/global-chem)<br>
 Drug repurposing methods can identify already approved drugs to treat them efficiently, reducing development costs and time. At the same time, knowledge graph embedding techniques can encode biological information in a single structure that allows users to operate relationships, extract information, learn connections, and make predictions to discover potential new relationships between existing drugs and vector-borne diseases.
 
-**Find the App here :point_right: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dr-using-kge.streamlit.app/) and let me know your comments**.
-
 In this project, we compare seven knowledge graph embedding models (TransE, TransR, TransH, UM, DistMult, RESCAL, and ERMLP) applied to Drug Repurposing Knowledge Graph (DRKG), analyzing their predictive performance over seven different vector-borne diseases (dengue, chagas, malaria, yellow fever, leishmaniasis, filariasis, and schistosomiasis), measuring their embedding quality and external performance against a ground-truth.
 
-This work is developed by [Shreyash Srivastva](https://www.linkedin.com/in/shreyashsrivastva/) and [Dr. Anshumaan Kumar](https://www.linkedin.com/in/anshumaan-kumar-7a4193281/) for BioHacks Hackathon 2024.
+This work is developed by [Shreyash Srivastva](https://www.linkedin.com/in/shreyashsrivastva/) for BioHacks Hackathon 2024.
 
 You can find here the data and code used for developing and evaluating the predictive models.
 
